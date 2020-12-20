@@ -6,5 +6,5 @@ example = 'cs5.world.edu'
 subdomain,domain,tld = example.split('.')
 print(subdomain,domain,tld)
 
-
+sdfdsfsdfsd
 #2020 12 20
